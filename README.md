@@ -1,6 +1,6 @@
 # pass-gen
 
-<img src="./mobile/assets/icon.png">
+<img width="128" src="./mobile/assets/icon.png">
 
 ## ✉ About
 
@@ -11,7 +11,6 @@ Made using React, React Native, Typescript and Expo.
 
 <img src="./assets/screenshot-1.png"/>
 <img src="./assets/screenshot-2.png"/>
-<img src="./assets/screenshot-3.png"/>
 
 ## ⚠ Requirements
 
