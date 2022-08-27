@@ -1,12 +1,17 @@
-# NAME OF THE PROJECT
+# pass-gen
+
+<img src="./mobile/assets/icon.png">
 
 ## ✉ About
 
-A brief description of the project.
+A project where you can generate safe passwords.
+Made using React, React Native, Typescript and Expo.
 
 ## 🌆 Images
 
-Add your images here.
+<img src="./assets/screenshot-1.png"/>
+<img src="./assets/screenshot-2.png"/>
+<img src="./assets/screenshot-3.png"/>
 
 ## ⚠ Requirements
 
@@ -14,19 +19,20 @@ In order to run the project, you will need:
 
 - Node
 - A web browser (Chrome, Firefox, Edge, etc...)
+- A mobile device OR a mobile emulator
 
 ## 💻 Technologies Used
 
 ### FRONTEND
 
-- HTML
-- CSS
-- JavaScript
+- React
+- Styled Components
+- Typescript
 
-### BACKEND
+### MOBILE
 
-- Node.js
-- Express
+- React Native
+- Expo
 
 ### EDITOR
 
@@ -36,9 +42,23 @@ In order to run the project, you will need:
 
 ```bash
 
-git clone https://github.com/example.git
+git clone https://github.com/arthur-lage/pass-gen.git
 
-cd example
+cd pass-gen
+
+# MOBILE
+
+cd mobile
+
+npm install -g expo-cli
+
+npm install
+
+expo start
+
+# WEB
+
+cd web
 
 npm install
 
@@ -50,4 +70,6 @@ npm run dev
 
 If you wish to test the application, click the link below:
 
-[app](https://link-to-your-app.com)
+[Web](https://pass-gen-al.vercel.com)
+
+[Mobile](https://github.com/arthur-lage/pass-gen/releases/tag/Release)
