@@ -10,7 +10,7 @@ Made using React, React Native, Typescript and Expo.
 ## 🌆 Images
 
 <img src="./assets/screenshot-1.png"/>
-<img src="./assets/screenshot-2.png"/>
+<img width="250" src="./assets/screenshot-2.png"/>
 
 ## ⚠ Requirements
 
